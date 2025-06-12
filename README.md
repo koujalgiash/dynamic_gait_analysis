@@ -14,7 +14,7 @@ young adults (N=34, 18-30 years) and middle-aged adults (N=33, 30-55 years).
 # Data Analysis
 1. Data Wrangling: Import and inspect datasets, Handle missing values and outliers, calculate derived variables.
 2. Data Visualization: Q-Q Plot, Histogram, Box and Whisker plots with scattered points
-3. Statistical Modeling: Independent sample t test, Pearson Correlation.
+3. Statistical Modeling: Independent sample t test.
 
 # Results
 An independent samples t-test was conducted to compare Harmonic ratio (V,ML and H) in young adults and middle-aged adults.
