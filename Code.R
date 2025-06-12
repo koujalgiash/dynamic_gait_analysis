@@ -9,8 +9,11 @@ install.packages("devtools")
 
 
 # IMPORTING ACTIGRAPH DATA IN .csv FORMAT FOR TWO WALKING TASKS
-c1=read_csv("/Users/aishwaryarkoujalgi/Desktop/C1_AGE.csv")
-c2=read_csv("/Users/aishwaryarkoujalgi/Desktop/C2_AGE2.csv")
+## Condition 1 (c1) : Normal, self-paced walking
+## Condition 2 (c2) : Walking with a cognitive task (Dual-task walking)
+
+c1=read_csv("/Users/C1_GAIT.csv")
+c2=read_csv("/Users/C2_GAIT.csv")
 
 
 # SORT DATA BY AGE
@@ -38,7 +41,7 @@ c1_df %>% group_by(AgeGroup) %>%  summarise(n = n(), mean = mean(Age), sd = sd(A
 c2_df %>% group_by(AgeGroup) %>%  summarise(n = n(), mean = mean(Age), sd = sd(Age))
 
 
-# DATA NORMALITY
+# CHECK DATA NORMALITY
 ## Q-Q PLOT FOR HARMONIC RATIO
 qqPlot(c1_df$HR_V)
 qqPlot(c1_df$HR_AP)
