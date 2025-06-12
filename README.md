@@ -17,9 +17,10 @@ young adults (N=34, 18-30 years) and middle-aged adults (N=33, 30-55 years).
 3. Statistical Modeling: Independent sample t test.
 
 # Results
-An independent samples t-test was conducted to compare Harmonic ratio (V,ML and H) in young adults and middle-aged adults.
+- An independent samples t-test was conducted to compare Harmonic ratio (V,ML and H) in young adults and middle-aged adults.
 The results showed no significant differences between the two groups in any of the directions: vertical [t(58) = 1.0, p = .3], mediolateral [t(51) = 0.5, p = .6], and anteroposterior [t(61) = 0.8, p = .4].
+- Adults exhibited a comparable degree of ‘smoothness’ in their acceleration patterns, as evidenced by the lack of significant differences between the two groups with regard to the harmonic ratio accelerations.
 
 # Conclusion
-Adults exhibited a comparable degree of ‘smoothness’ in their acceleration patterns, as evidenced by the lack of significant differences between the two groups with regard to the harmonic ratio accelerations.
+The complexity of the secondary cognitive task plays an impact on walking performance. The gait paramenter, Harmonic Ratio, can serve as an indicator for detecting early changes in conservative gait patterns associated with aging.
 
