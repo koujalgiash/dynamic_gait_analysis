@@ -1,6 +1,6 @@
 # Introduction
 - Gait changes associated with aging are often viewed as conservative adaptations aimed at enhancing stability and reducing fall risk.
-- Dynamic gait relies on the integration of motor control and cognitive processes, and as a result, cognitive impairments in the elderly can compromise gait stability and contribute to a higher risk of falls.
+- "Dynamic gait" is a wlaking with a cogntive task. It relies on the integration of motor control and cognitive processes, and as a result, cognitive impairments in the elderly can compromise gait stability and contribute to a higher risk of falls.
 - This project provides insight into gait patterns of healthy adults at comfortable walking pace as well as walking with a cognitive task. 
 
 # Aim
