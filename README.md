@@ -1,16 +1,17 @@
 # Introduction
-- Age-associated changes in gait characteristics have been interpreted as a more cautious, conservative gait pattern to maintain stability. 
-- As walking requires attention, cognitive impairments are likely to contribute to an increased fall risk in the elderly. 
+- Gait changes associated with aging are often viewed as conservative adaptations aimed at enhancing stability and reducing fall risk.
+- Dynamic gait relies on the integration of motor control and cognitive processes, and as a result, cognitive impairments in the elderly can compromise gait stability and contribute to a higher risk of falls.
+- This project provides insight into gait patterns of healthy adults at comfortable walking pace as well as walking with a cognitive task. 
 
 # Aim
 - To investigate the relationship between executive function and gait stability in healthy adults to observe normal age related gait patterns.
 
 # Methods
-- Sixty seven healthy adults were recruited from the community in two age groups-
-young adults (N=34, 18-30 years) and middle-aged adults (N=33, 30-55 years). 
-- Walking at self-selected speed with and without performing a verbal dual task were measured with an accelerometer
-- Harmonic ratio was the primarily observed gait parameter as an indicator of gait stability.
-- It was measured in three axes from the accelerometer - Vertical (VT), Anteroposterior (AP) and Mediolateral (ML).
+- Sixty seven healthy adults were recruited from the community in categorised into two age groups-
+a) young adults (N=34, 18-30 years)
+b) middle-aged adults (N=33, 30-55 years)
+- Walking, measured with an accelerometer at self-selected speed with and without performing a verbal cognitive task. 
+- Harmonic ratio was the primarily observed gait parameter as an indicator of gait stability. It was measured in three axes from the accelerometer - Vertical (VT), Anteroposterior (AP) and Mediolateral (ML).
 
 # Data Analysis
 1. Data Wrangling: Import and inspect datasets, Handle missing values and outliers, calculate derived variables.
@@ -24,4 +25,4 @@ The results showed no significant differences between the two groups in any of t
 
 # Conclusion
 - The complexity of the secondary cognitive task plays an impact on walking performance. 
-- The gait parameter Harmonic Ratio may serve as a sensitive marker for detecting early alterations in conservative gait patterns commonly associated with aging.
+- Harmonic Ratio gait parameter may serve as a sensitive marker for detecting early alterations in gait patterns that is commonly associated with aging.
